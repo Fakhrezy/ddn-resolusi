@@ -2,3 +2,5 @@ wanna be:
 -data analyst
 -data scientist
 -python developer
+-it support
+-web developer
