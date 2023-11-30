@@ -1,0 +1,2 @@
+# ddn-resolusi
+repository plan
