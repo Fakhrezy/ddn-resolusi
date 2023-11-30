@@ -2,6 +2,6 @@ what if-wanna be:
 -ui/ux designer
 -illustrator
 -artist
--teacher
+-bussinesman
 -CEO start up
--game developer
+-manager
